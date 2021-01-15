@@ -7,7 +7,7 @@ while True:
         break
     else:
         list_items.append(new_item)
-        print(list_items)
+        #print(list_items)
 
 
 for item in sorted(list_items):
